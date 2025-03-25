@@ -1,0 +1,39 @@
+/* Apply general styles to the body */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: #f4f4f4;
+}
+
+/* Style the heading */
+h1 {
+    color: blue;
+}
+
+/* Style the paragraph */
+p {
+    font-size: 18px;
+    color: black;
+    cursor: pointer;
+}
+
+/* Add hover effect to the paragraph */
+p:hover {
+    color: green;
+}
+
+/* Style the link */
+a {
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    padding: 10px 15px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+a:hover {
+    background-color: darkblue;
+}
